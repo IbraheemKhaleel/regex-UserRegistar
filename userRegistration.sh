@@ -6,3 +6,4 @@ then
 else
         echo "password must contain atleast a number, capital letter and 8 characters "
 fi
+yes
